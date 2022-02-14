@@ -3,6 +3,7 @@
 class Subject {
 public:
 	virtual void request() = 0;
+	virtual ~Subject() = default;
 };
 
 class RealSubject : public Subject {
@@ -19,6 +20,13 @@ public:
 			rs_ = new RealSubject();
 		}
 		rs_->request();
+	}
+
+	~Proxy() {
+		if (rs_) {
+			delete rs_;
+			rs_ = nullptr;
+		}
 	}
 
 protected:

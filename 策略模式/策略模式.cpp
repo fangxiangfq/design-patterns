@@ -4,6 +4,7 @@
 class Strategy {
 public:
 	virtual void algorithm() = 0;
+	virtual ~Strategy() = default;
 };
 
 class StrategyA : public Strategy {

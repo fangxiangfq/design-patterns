@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "建造模式", "建造模�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "观察者模式", "观察者模式\观察者模式.vcxproj", "{C37BF9C8-C65C-4F51-8E6F-7180024F1518}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "抽象工厂模式", "抽象工厂模式\抽象工厂模式.vcxproj", "{91F040C6-11B6-40C6-BF85-FC4EC632C353}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{C37BF9C8-C65C-4F51-8E6F-7180024F1518}.Release|x64.Build.0 = Release|x64
 		{C37BF9C8-C65C-4F51-8E6F-7180024F1518}.Release|x86.ActiveCfg = Release|Win32
 		{C37BF9C8-C65C-4F51-8E6F-7180024F1518}.Release|x86.Build.0 = Release|Win32
+		{91F040C6-11B6-40C6-BF85-FC4EC632C353}.Debug|x64.ActiveCfg = Debug|x64
+		{91F040C6-11B6-40C6-BF85-FC4EC632C353}.Debug|x64.Build.0 = Debug|x64
+		{91F040C6-11B6-40C6-BF85-FC4EC632C353}.Debug|x86.ActiveCfg = Debug|Win32
+		{91F040C6-11B6-40C6-BF85-FC4EC632C353}.Debug|x86.Build.0 = Debug|Win32
+		{91F040C6-11B6-40C6-BF85-FC4EC632C353}.Release|x64.ActiveCfg = Release|x64
+		{91F040C6-11B6-40C6-BF85-FC4EC632C353}.Release|x64.Build.0 = Release|x64
+		{91F040C6-11B6-40C6-BF85-FC4EC632C353}.Release|x86.ActiveCfg = Release|Win32
+		{91F040C6-11B6-40C6-BF85-FC4EC632C353}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

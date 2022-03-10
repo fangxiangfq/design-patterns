@@ -2,6 +2,7 @@
 #include <exception>
 #include <memory>
 #include <string>
+#include <algorithm>
 
 class Operation {
 protected:

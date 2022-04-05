@@ -68,7 +68,7 @@ private:
 	Memnto* men_{ nullptr };
 };
 
-int main()
+int main() 
 {
 	Originator o;
 	o.setState("On");

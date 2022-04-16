@@ -1,4 +1,6 @@
-﻿#include <iostream>
+﻿// Simple Factory
+
+#include <iostream>
 #include <exception>
 #include <memory>
 #include <string>

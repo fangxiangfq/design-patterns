@@ -1,4 +1,11 @@
-﻿#include <iostream>
+﻿// Iterator
+// 迭代器是一种行为设计模式，
+// 让你能在不暴露集合底层表　
+// 现形式（列表、栈和树等）　
+// 的情况下遍历集合中所有的　
+// 元素。
+
+#include <iostream>
 #include <vector>
 
 template <typename T, typename U>

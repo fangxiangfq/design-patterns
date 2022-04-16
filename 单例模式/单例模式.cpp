@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿// Singleton
+// 单例是一种创建型设计模式，
+// 让你能够保证一个类只有一　
+// 个实例，并提供一个访问该　
+// 实例的全局节点。
+
+#include <iostream>
 
 class Singleton {
 public:

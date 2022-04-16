@@ -1,4 +1,9 @@
-﻿#include <iostream>
+﻿// Abstract Factory
+// 抽象工厂是一种创建型设计模式，
+// 它能创建一系列相关的对象，而　
+// 无需指定其具体类。
+
+#include <iostream>
 
 class ProductA {
 public:

@@ -1,4 +1,11 @@
-﻿#include <iostream>
+﻿// Strategy
+// 策略是一种行为设计模式，
+// 它能让你定义一系列算法，
+// 并将每种算法分别放入独　
+// 立的类中，以使算法的对　
+// 象能够相互替换。
+
+#include <iostream>
 #include <memory>
 
 class Strategy {

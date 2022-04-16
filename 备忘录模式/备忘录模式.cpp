@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿// Memento
+// 备忘录是一种行为设计模式，
+// 允许在不暴露对象实现细节　
+// 的情况下保存和恢复对象之　
+// 前的状态。
+
+#include <iostream>
 #include <string>
 
 using namespace std;

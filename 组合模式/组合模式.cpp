@@ -1,4 +1,9 @@
-﻿#include <iostream>
+﻿// Composite
+// 组合是一种结构型设计模式，
+// 你可以使用它将对象组合成　
+// 树状结构，并且能像使用独　
+// 立对象一样使用它们。
+#include <iostream>
 #include <string>
 #include <list>
 #include <algorithm>

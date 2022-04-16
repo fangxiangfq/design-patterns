@@ -1,4 +1,9 @@
-﻿#include <iostream>
+﻿// Prototype
+// 原型是一种创建型设计模式，使
+// 你能够复制已有对象，而又无需
+// 使代码依赖它们所属的类。
+
+#include <iostream>
 #include <string>
 
 class Prototype {

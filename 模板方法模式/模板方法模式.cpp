@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿// Template Method
+// 模板方法是一种行为设计模式，
+// 它在超类中定义了一个算法的　
+// 框架，允许子类在不修改结构　
+// 的情况下重写算法的特定步骤。
+
+#include <iostream>
 
 class Template {
 public:

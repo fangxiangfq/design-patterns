@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿// Decorator
+// 装饰是一种结构型设计模式，
+// 允许你通过将对象放入包含　
+// 行为的特殊封装对象中来为　
+// 原对象绑定新的行为。
+
+#include <iostream>
 #include <exception>
 #include <stdexcept>
 

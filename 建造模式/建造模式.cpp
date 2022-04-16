@@ -1,4 +1,10 @@
-﻿#include <iostream>
+﻿// Builder
+// 生成器是一种创建型设计模式，
+// 使你能够分步骤创建复杂对象。
+// 该模式允许你使用相同的创建　
+// 代码生成不同类型和形式的对象。
+
+#include <iostream>
 #include <list>
 #include <algorithm>
 #include <string>

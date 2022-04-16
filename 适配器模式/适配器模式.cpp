@@ -1,4 +1,9 @@
-﻿#include <iostream>
+﻿// Adapter
+// 适配器是一种结构型设计模式，
+// 它能使接口不兼容的对象能够　
+// 相互合作。
+
+#include <iostream>
 
 class Target {
 public:
